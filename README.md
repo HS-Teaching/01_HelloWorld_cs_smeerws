@@ -14,5 +14,8 @@ Furthermore, the project serves to practice the version control workflow with gi
 
 **Lessons learned:**
  - Create a version controlled Unity project
- - Create a debug log message 
+ - Create Update a gitignore file
+ - Create a C# script (Name of the Script = Name of the Class!!)
+ - Add Script to GameObject
+ - Create a debug log message in a script
  - Write Markdown
