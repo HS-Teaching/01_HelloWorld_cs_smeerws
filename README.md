@@ -18,4 +18,4 @@ Furthermore, the project serves to practice the version control workflow with gi
  - Create a C# script (Name of the Script = Name of the Class!!)
  - Add Script to GameObject
  - Create a debug log message in a script
- - Write [Markdown] (https://de.wikipedia.org/wiki/Markdown#targetText=Markdown%20ist%20eine%20vereinfachte%20Auszeichnungssprache,weitere%20Konvertierung%20leicht%20lesbar%20ist)
+ - Write [Markdown](https://de.wikipedia.org/wiki/Markdown#targetText=Markdown%20ist%20eine%20vereinfachte%20Auszeichnungssprache,weitere%20Konvertierung%20leicht%20lesbar%20ist)
