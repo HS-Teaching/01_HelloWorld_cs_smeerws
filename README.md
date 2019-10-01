@@ -5,7 +5,7 @@ The project generates a "Hello World" as a debug message onto the unity console.
 Furthermore, the project serves to practice the version control workflow with git.  
 
 **Screenshot:** 
-<img src="./Snapshots/screenshot-helloworld-cs.jpg" width="500">
+<img src="./Snapshots/screenshot-helloworld-cs.JPG" width="500">
 
 **Development platform:** Windows 10, Unity version 2019.1.14f1, Visual Studio Community
 
